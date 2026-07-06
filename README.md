@@ -73,6 +73,7 @@ Actualmente en proceso de certificación **eJPT (INE Security)**, con foco en pe
 - **eJPT** — Junior Penetration Tester, INE Security *(en proceso)*
 - **CSFPC** — Cyber Security Foundation Professional Certificate, CertiProf
 - **Cisco NetAcad Ethical Hacker** — Cisco Networking Academy
+- *Entre otras.*
 
 ---
 
