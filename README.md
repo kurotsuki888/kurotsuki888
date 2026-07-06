@@ -37,8 +37,6 @@ Actualmente en proceso de certificación **eJPT (INE Security)**, con foco en pe
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square" />
 <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square" />
 <img src="https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square" />
-<img src="https://img.shields.io/badge/-BloodHound-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/-Impacket-000000?style=flat-square" />
 <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
 
 **Defensiva**
