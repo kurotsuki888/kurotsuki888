@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Eloy Balcázar 👋</h1>
+<h1 align="center">Hola, soy Eloy Balcazar 👋</h1>
 <h3 align="center">Offensive Security · Networking & Infrastructure · Co-Founder Vultracer</h3>
 
 <p align="center">
