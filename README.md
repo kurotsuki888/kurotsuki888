@@ -13,7 +13,7 @@
 
 Titulado con Excelencia Académica como **Administrador de Redes y Telecomunicaciones**, actualmente cursando **Ingeniería en Conectividad y Redes** en Duoc UC (jornada vespertina, 5º semestre).
 
-Combino una base sólida en redes y sistemas con capacidades ofensivas: desarrollo herramientas propias de auditoría, he implementado un SOC con Wazuh y construyo pipelines de reconocimiento automatizado para análisis de superficie de ataque.
+Combino una base sólida en redes y sistemas con capacidades ofensivas: desarrollo herramientas propias de auditoría y he implementado un SOC con Wazuh, entre otros proyectos.
 
 Actualmente en proceso de certificación **eJPT (INE Security)**, con foco en pentesting de infraestructura, explotación de servicios y pivoting. En paralelo, desarrollando capacidades en **Web Security** orientadas a Bug Bounty.
 
@@ -22,8 +22,8 @@ Actualmente en proceso de certificación **eJPT (INE Security)**, con foco en pe
 ### 🚀 En qué estoy trabajando
 
 - **Vultracer** — Proyecto de ciberseguridad ofensiva co-fundado junto a dos compañeros, orientado a auditorías de infraestructura para empresas PYME. Actualmente en etapa de desarrollo de metodología y stack técnico, previo a su constitución formal.
-  - **Vultracer Phantom** *(desarrollo individual)*: framework de auditoría en Python con módulos de descubrimiento de hosts, escaneo de puertos, fingerprinting de servicios e inteligencia OSINT.
-  - Pipeline de reconocimiento automatizado: `subfinder` → `httpx` → `naabu` → `Nuclei`.
+  - **Vultracer Phantom**: framework de auditoría en Python con módulos de descubrimiento de hosts, escaneo de puertos, fingerprinting de servicios e inteligencia OSINT.
+  - **Web Vultracer**: desarrollo del sitioweb de Vultracer, potenciando el SEO, incluyendo blogs para la comunidad y mejorar el posicionamiento.
 - **SOC Híbrido**: arquitectura conectando infraestructura local con AWS VPC, con Wazuh como SOC centralizado, integración a Slack, honeypots, VPN ZeroTier y telefonía IP corporativa (Asterisk/FreePBX). Simulación de topologías empresariales Cisco con VLANs, OSPF, EIGRP, BGP y hardening de switches y firewalls.
 - Preparación activa para la certificación **eJPT**.
 
