@@ -1,5 +1,5 @@
-<h1 align="center">Hola, soy Eloy Balcazar 🦇</h1>
-<h3 align="center">Offensive Security · Networking & Infrastructure · Co-Founder Vultracer</h3>
+<h1 align="center">Hi! I'm kuro :p 🦇</h1>
+<h3 align="center">Offensive Security · Networking & Infrastructure</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ubicación-Santiago,_Chile-informational" />
@@ -11,7 +11,7 @@
 
 ### 🔎 Sobre mí
 
-Titulado con Excelencia Académica como **Administrador de Redes y Telecomunicaciones**, actualmente cursando **Ingeniería en Conectividad y Redes** en Duoc UC (jornada vespertina, 5º semestre).
+**Administrador de Redes y Telecomunicaciones**, actualmente cursando **Ingeniería en Conectividad y Redes**.
 
 Combino una base sólida en redes y sistemas con capacidades ofensivas: desarrollo herramientas propias de auditoría y he implementado un SOC con Wazuh, entre otros proyectos.
 
